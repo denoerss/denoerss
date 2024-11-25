@@ -23,7 +23,7 @@ I work both in freelance solo projects and in close discourse with other creativ
 <br>
 
 **Deep Dive**: [Portfolio](https://www.denise-albrecht.de) | [CV](https://www.denise-albrecht.de/about) 
-<br><br>
+<br>
 
 ---
 
