@@ -11,17 +11,14 @@ My practice takes a strongly conceptual approach and focuses on the broad field 
 I'm interested in new infrastructures between different disciplines such as digital art, education and experience design. <br>
 I work both in freelance solo projects and in close discourse with other creatives and creative studios. <br><br>
 
-### Recent Projects <br>
-Design Research | Editorial Design: <br>
-[Mode X - Experiential Futures als Medium der Krisenprävention](https://www.denise-albrecht.de/mode-x) <br><br>
+### Recent Projects <br><br>
 
-UI/UX-Design: <br>
-[Mirror Montage (Wire Mesh)](https://www.denise-albrecht.de/mirror-montage-wire-mesh) <br>
-Collab w/ Kunstverein Bielefeld & Gottfried Jäger) <br><br>
-
-3D-Art | VR-App <br>
-[50 Years of Future](https://www.denise-albrecht.de/50-years-of-future) <br>
-(Collab w/ Hochschule Bielefeld) <br><br>
+| Kind of Work | Link to Work | Collab |
+| :---: | :---: | :---: |
+| Design Research & <br> Editorial Design | [Mode X <br> Experiential Futures als Medium <br> der Krisenprävention](https://www.denise-albrecht.de/mode-x) | X |
+| UI/UX-Design | [Mirror Montage <br> (Wire Mesh)](https://www.denise-albrecht.de/mirror-montage-wire-mesh) | w/ Kunstverein Bielefeld <br> & Gottfried Jäger |
+| 3D-Art & VR-App | [50 Years of Future](https://www.denise-albrecht.de/50-years-of-future) | w/ Hochschule Bielefeld |
+<br>
 
 Deep Dive: <br>
 [Portfolio](https://www.denise-albrecht.de) | [CV](https://www.denise-albrecht.de/about) <br><br>
@@ -33,9 +30,9 @@ Deep Dive: <br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br><br>
 
-
 ## Now + Next
 I'm currently completing further training as a **web developer** @ [Neue Fische](https://www.neuefische.de/bootcamp/web-development) 💻
+<br>
 
 ### New Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
