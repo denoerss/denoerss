@@ -12,7 +12,9 @@ I'm interested in new infrastructures between different disciplines such as digi
 I work both in freelance solo projects and in close discourse with other creatives and creative studios. <br><br>
 
 ### Recent Projects <br>
----
+
+--- 
+
 | Kind of Work | Link to Work | Collab |
 | :---: | :---: | :---: |
 | Design Research & <br> Editorial Design | [Mode X <br> Experiential Futures als Medium <br> der Krisenprävention](https://www.denise-albrecht.de/mode-x) | X |
@@ -20,13 +22,12 @@ I work both in freelance solo projects and in close discourse with other creativ
 | 3D-Art & VR-App | [50 Years of Future](https://www.denise-albrecht.de/50-years-of-future) | w/ Hochschule Bielefeld |
 <br>
 
-Deep Dive: <br>
-[Portfolio](https://www.denise-albrecht.de) | [CV](https://www.denise-albrecht.de/about) 
-<br>
+**Deep Dive**: [Portfolio](https://www.denise-albrecht.de) | [CV](https://www.denise-albrecht.de/about) 
+<br><br>
 
 ---
 
-### Main Tools
+### Main Tools <br>
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
