@@ -3,12 +3,12 @@
 # Helloo,
 
 my name ist **Denise Albrecht** (she/her). <br>
-I'm a **communication designer** and **digital media artist**. <br>
+I'm a **Communication Designer** and **Digital Media Artist**. <br>
 :round_pushpin: Hamburg, GER. <br><br>
 
 ## My Practice
-My practice takes a strongly conceptual approach and focuses on the broad field of **visual communication**. <br>
-I'm interested in new infrastructures between different disciplines such as digital art, education and experience design. <br>
+My practice takes a strongly conceptual approach and focuses on the broad field of **Visual Communication**. <br>
+I'm interested in new infrastructures between different disciplines such as Digital Art, education and Experience Design. <br>
 I work both in freelance solo projects and in close discourse with other creatives and creative studios. <br><br>
 
 ### Recent Projects 
