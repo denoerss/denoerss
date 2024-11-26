@@ -2,8 +2,8 @@
   
 # Helloo,
 
-my name ist Denise Albrecht (she/her). <br>
-I'm a communication designer and digital media artist. <br>
+my name ist **Denise Albrecht** (she/her). <br>
+I'm a **communication designer** and **digital media artist**. <br>
 :round_pushpin: Hamburg, GER. <br><br>
 
 ## My Practice
