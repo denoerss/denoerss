@@ -34,7 +34,7 @@ I work both in freelance solo projects and in close discourse with other creativ
 <br><br>
 
 ## Now + Next
-I'm currently completing further training as a **web developer** @ [Neue Fische](https://www.neuefische.de/bootcamp/web-development) 💻 <br>
+I'm currently completing further training as a **Web Developer** @ [Neue Fische](https://www.neuefische.de/bootcamp/web-development) 💻 <br>
 
 ### New Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
