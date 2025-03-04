@@ -1,6 +1,6 @@
 <div align="center">
   
-# Helloo Geeks,
+# Helloo,
 
 my name ist **Denise Albrecht** (she/her). <br>
 I'm a **Creative Technologist** and **Communication Designer**. <br>
