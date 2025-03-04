@@ -10,14 +10,14 @@ https://github.com/user-attachments/assets/dab5cd8b-298d-4194-82dc-39550b135bf9
 
 ### My Practice
 
-As a **Creative Technologist** and **Communication Designer**, I merge creativity with technical expertise <br>
+As a **Creative Technologist** and **Communication Designer**, I merge creativity with technical expertise 
 to explore how emerging technologies can reshape **Visual Communication** and elevate user experiences.
 
-I specialize in crafting **innovative digital solutions** that bridge the gap between design and technology, <br>
-with a focus on **interactivity**, **immersive experiences**, and **user-centered design**. Driven by **problem-solving**, <br>
+I specialize in crafting **innovative digital solutions** that bridge the gap between design and technology, 
+with a focus on **interactivity**, **immersive experiences**, and **user-centered design**. Driven by **problem-solving**, 
 I constantly experiment with new tools and mediums to push creative boundaries.
 
-My work spans across **Experience Design**, **Education**, and **Digital Art**, and I thrive in collaborative, <br>
+My work spans across **Experience Design**, **Education**, and **Digital Art**, and I thrive in collaborative, 
 interdisciplinary teams to deliver impactful projects that seamlessly integrate design and technology. 
 
 I recently completed further training as a **Web Developer** @ [Neue Fische](https://www.neuefische.de/bootcamp/web-development) 💻 <br><br>
@@ -44,14 +44,14 @@ I recently completed further training as a **Web Developer** @ [Neue Fische](htt
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) <br>
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)<br>
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Visual Studio Code]( 	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br>
