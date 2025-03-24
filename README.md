@@ -3,8 +3,8 @@
 # Helloo,
 
 my name ist **Denise Albrecht** (she/her). <br>
-I'm a **Creative Technologist** and **Communication Designer**. <br>
-I love **Problem-Solving** in Design and Tech. <br>
+I'm a **Creative Technologist** and **Communication Designer** <br>
+and I love **Problem-Solving** in Design and Tech. <br>
 :round_pushpin: Hamburg, GER. <br>
 
 https://github.com/user-attachments/assets/dab5cd8b-298d-4194-82dc-39550b135bf9 
