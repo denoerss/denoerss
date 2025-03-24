@@ -4,7 +4,7 @@
 
 my name ist **Denise Albrecht** (she/her). <br>
 I'm a **Creative Technologist** and **Communication Designer** <br>
-and I love **Problem-Solving** in Design and Tech. <br>
+with a passion for **Problem-Solving** in Design and Tech. <br>
 :round_pushpin: Hamburg, GER. <br>
 
 https://github.com/user-attachments/assets/dab5cd8b-298d-4194-82dc-39550b135bf9 
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/dab5cd8b-298d-4194-82dc-39550b135bf9
 ### My Practice
 
 As a **Creative Technologist** and **Communication Designer**, I merge creativity with technical expertise 
-to explore how emerging technologies can reshape **Visual Communication** and elevate user experiences.
+to explore how emerging technologies can reshape **Visual Communication** and elevate **User Experiences**.
 
 I specialize in crafting **innovative digital solutions** that bridge the gap between design and technology, 
 with a focus on **interactivity**, **immersive experiences**, and **user-centered design**. Driven by **problem-solving**, 
@@ -27,12 +27,13 @@ I recently completed further training as a **Web Developer** @ [Neue Fische](htt
 
 ### Recent Projects: **Deep Dive** @ [Portfolio](https://www.denise-albrecht.de) | [CV](https://www.denise-albrecht.de/about) 
 
-| Work Type                               | Project Link                                                                                                   | Collaborators                                          |
+| Work Type                               | Project Link                                                                                                   | Collaborators                                   |
 | :-------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---------------------------------------------: |
-| Web Development & <br> UI/UX-Design          | [Capstone-Project: <br> OmniFlip](https://github.com/denoerss/capstone-project_omni-flip)                                                | Joshua Nuckel <br> Sergey Zaslavets <br> [Neue              |
-| Design Research & <br> Editorial Design | [Mode X<br> Experiential Futures als Medium <br> der Krisenprävention](https://www.denise-albrecht.de/mode-x) | ––                                              |
-| UI/UX-Design                            | [Mirror Montage <br> (Wire Mesh)](https://www.denise-albrecht.de/mirror-montage-wire-mesh)                     | Gottfried Jäger <br> Marta Beauchamp <br> Sonja Mense <br> Kunstverein Bielefeld  |
-| 3D-Art & VR-App                         | [50 Years of Future](https://www.denise-albrecht.de/50-years-of-future)                                      |  Hochschule Bielefeld                         |
+| Web Development & <br> UI/UX-Design     | [POF-Aware – A Plattform <br> for Awareness and Information <br> on POF Syndrome](https://github.com/denoerss/pof-aware)                      | *Open for <br> Collaboration*                                              |
+| Web Development & <br> UI/UX-Design     | [Capstone-Project [Neue Fische] – <br> OmniFlip](https://github.com/denoerss/capstone-project_omni-flip)                      | Joshua Nuckel <br> Sergey Zaslavets <br> [Neue Fische]  |
+| Design Research & <br> Editorial Design | [Mode X –<br> Experiential Futures als Medium <br> der Krisenprävention](https://www.denise-albrecht.de/mode-x)  | ––                                              |
+| UI/UX-Design                            | [Mirror Montage <br> (Wire Mesh)](https://www.denise-albrecht.de/mirror-montage-wire-mesh)                     | Gottfried Jäger <br> [Kunstverein Bielefeld] <br> Marta Beauchamp <br> Sonja Mense <br> [Hochschule Bielefeld]  |
+| 3D-Art & VR-App                         | [50 Years of Future](https://www.denise-albrecht.de/50-years-of-future)                                        |  Hochschule Bielefeld                           |
 
 <br>
 
