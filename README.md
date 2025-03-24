@@ -4,6 +4,7 @@
 
 my name ist **Denise Albrecht** (she/her). <br>
 I'm a **Creative Technologist** and **Communication Designer**. <br>
+I love to solve problems in Design and Tech. <br>
 :round_pushpin: Hamburg, GER. <br>
 
 https://github.com/user-attachments/assets/dab5cd8b-298d-4194-82dc-39550b135bf9 
